@@ -1,0 +1,6 @@
+{
+  "name": "Trọ Việt",
+  "description": "Nền tảng tìm kiếm phòng trọ thông minh với AI đề xuất, bản đồ radar và minh bạch chi phí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
